@@ -2,4 +2,4 @@
 
  left right card swiping motion implentaion using swift
 
-Copyrights Faraz_Ahmed©
+Copyright Faraz_Ahmed©
